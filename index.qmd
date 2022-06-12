@@ -1,10 +1,39 @@
 ---
-title: "mysite"
+title: "Maksym Kopylov, policy analyst"
 ---
-dsd sdsfsfsaffd
-ds
-d
 
-This is a Quarto website.
+Hi, I am Maksym Kopylov, an aspiring human being and a social policy analyst. Even though I don't know much in my field, I am eager to learn! Here you can have a look at my research interests, projects, and other important stuff.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![That's me!](Images/myphoto.jpeg){fig-alt="That's me!" fig-align="center" width="360"}
+
+## Research interests
+
+I absolutely love public policy analysis and mixed methods research. Substantially, I am interested in housing policy and political economy of the welfare state.
+
+There are several topics that I explore in-depth. Firstly, for my term paper, I conduct research on rent regulation in European welfare states. And secondly, I also study citizens' preferences towards home ownership vis-à-vis renting and how they affect housing policy.
+
+## Current projects
+
+### 1. MITACS Globalink Research Internship
+
+I am currently involved in a research project on nurse migration pathways at Wilfrid Laurier University - Waterloo.
+
+### 2. 
+
+## Contact me!
+
+### Email
+
+kopylov.maksym@gmail.com 
+
+maksym.kopylov@ukma.edu.ua
+
+### Social media
+
+Twitter: @MaksymKopylov
+
+## Biridng
+
+I am a keen on bird-watching. In Ukraine I have already spotted 87 different species of birds. I am an active activist in this field, promoting briding as citizen science, advocating for more bird feeders in the parks and for more responsible behaviour towards birds living around us. 
+
+![That is Eurasian Linnet, this bird is a rather rare one in Ukraine, but many Linnets live side-by-side with humans who are not even aware of them!](Images/Linnet.jpeg){fig-alt="That's me!" fig-align="center" width="360"}
