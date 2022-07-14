@@ -2,16 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Maksym Kopylov, policy analyst",
+    "title": "Maksym Kopylov",
     "section": "",
-    "text": "Hi, I am Maksym Kopylov, an aspiring human being and a social policy analyst. Even though I don’t know much in my field, I am eager to learn! Here you can have a look at my research interests, projects, and other important stuff."
+    "text": "Hi, I am a data analyst excited about computational social science, birding, and chess.\nAcademically, I am primarily interested in social inequality and public opinion.\nAs a data analyst, I examine data on humanitarian situation in Ukraine."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About me (micro CV)",
     "section": "",
-    "text": "About this site"
+    "text": "I am a data analyst at REACH Initiative. I mainly work with projects on pressing social issues in Ukraine.\nCurrently, I am developing this website as a way to deepen my understanding of Quarto."
   },
   {
     "objectID": "index.html#research-interests",
@@ -30,9 +30,9 @@
   {
     "objectID": "index.html#contact-me",
     "href": "index.html#contact-me",
-    "title": "Maksym Kopylov, policy analyst",
+    "title": "Maksym Kopylov",
     "section": "Contact me!",
-    "text": "Contact me!\n\nEmail\nkopylov.maksym{at}gmail{dot}com maksym.kopylov{at}ukma{dot}edu{dot}ua\n\n\nSocial media\nTwitter: @MaksymKopylov"
+    "text": "Contact me!\nkopylov.maksym{at}gmail{dot}com maksym.kopylov{at}ukma{dot}edu{dot}ua\nTwitter: @MaksymKopylov"
   },
   {
     "objectID": "index.html#biridng",
@@ -40,5 +40,33 @@
     "title": "Maksym Kopylov, policy analyst",
     "section": "Biridng",
     "text": "Biridng\nI am a keen on bird-watching. In Ukraine I have already spotted 87 different species of birds. I am an active activist in this field, promoting briding as citizen science, advocating for more bird feeders in the parks and for more responsible behaviour towards birds living around us.\n\n\n\nThat is Eurasian Linnet, this bird is a rather rare one in Ukraine, but many Linnets live side-by-side with humans who are not even aware of them!"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About me (micro CV)",
+    "section": "Education",
+    "text": "Education\nI have a Bachelor’s degree in political science and a Master’s degree in (To be added)."
+  },
+  {
+    "objectID": "about.html#work-experience",
+    "href": "about.html#work-experience",
+    "title": "About me (micro CV)",
+    "section": "Work experience",
+    "text": "Work experience\nI work as a Database Officer at REACH Initiative.\nPreviously, I worked as a Research Intern at Ilko Kucheriv Democratic Initiatives Foundation."
+  },
+  {
+    "objectID": "about.html#my-publications",
+    "href": "about.html#my-publications",
+    "title": "About me (micro CV)",
+    "section": "My Publications",
+    "text": "My Publications\nI have published two articles on political issues while working at Democratic Initiatives Foundations:\n\nUkraine on the Scales of Democracy: the Freedom House Index\n\non problems with the Freedom House Index in assessing Ukrainian democracy\n\nAll fair elections are alike, each falsified election is falsified in its own way\n\non electoral malpractice and protests in Belarus"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "That is my personal blog where I post things I find interesting about data visualisations and social sciences."
   }
 ]
