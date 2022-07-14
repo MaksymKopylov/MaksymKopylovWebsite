@@ -1,0 +1,6 @@
+---
+title: "Blog"
+editor: visual
+---
+
+That is my personal blog where I post things I find interesting about data visualisations and social sciences. 

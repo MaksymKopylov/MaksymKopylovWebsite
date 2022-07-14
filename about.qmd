@@ -1,5 +1,30 @@
 ---
-title: "About"
+title: "About me (micro CV)"
 ---
 
-About this site
+I am a data analyst at REACH Initiative. I mainly work with projects on pressing social issues in Ukraine.
+
+Currently, I am developing this website as a way to deepen my understanding of Quarto.
+
+
+## Education 
+
+I have a Bachelor's degree in political science and a Master's degree in (To be added).
+
+## Work experience
+
+I work as a Database Officer at REACH Initiative.
+
+Previously, I worked as a Research Intern at Ilko Kucheriv Democratic Initiatives Foundation. 
+
+## My Publications
+
+I have published two articles on political issues while working at Democratic Initiatives Foundations:
+
+- [Ukraine on the Scales of Democracy: the Freedom House Index](https://voxukraine.org/en/ukraine-on-the-scales-of-democracy-the-freedom-house-index/)
+  
+  - on problems with the Freedom House Index in assessing Ukrainian democracy 
+
+- [All fair elections are alike, each falsified election is falsified in its own way](https://dif.org.ua/article/usi-chesni-vibori-chesni-odnakovo-usi-sfalshovani-sfalshovani-po-riznomu)
+
+  - on electoral malpractice and protests in Belarus 
